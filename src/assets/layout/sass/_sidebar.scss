@@ -1,0 +1,73 @@
+.aStyle {
+  margin-left: -19px;
+  width: 200px;
+  font-size: 13px;
+}
+
+.menuStyles1 {
+  margin-top: -30px;
+  margin-left: -51px;
+}
+.avatarStyles {
+  border: 1px solid #000000;
+  height: 43px;
+  width: 43px;
+  background-color: #ffffff;
+  color: #000000;
+  margin-right: 12px;
+}
+
+.sidebarStyle {
+  padding-top: $headerHeight;
+  box-shadow: none;
+  background-color: $backgroundColor;
+  transition: all 0.3s ease 0s;
+}
+.sidebarStyle.opend {
+  width: $drawerWidth;
+}
+.sidebarStyle.closed {
+  width: 4rem;
+}
+.sidebarStyle.closedMobile {
+  width: 0px;
+}
+
+.togglebuttonStyle {
+  top: 95px;
+  width: 28px;
+  height: 28px;
+  border: 1px solid gray;
+  transition: all 0.3s ease 0s;
+}
+.togglebuttonStyle.sidebarOpened {
+  left: 165px;
+}
+.togglebuttonStyle.sidebarClosed {
+  left: 50px;
+}
+
+.menuSidebarStyle.Opened {
+  margin-right: -12px;
+}
+
+.menuSidebarStyle.closed {
+  margin-right: 99px !important;
+}
+
+.avatarStyles1 {
+  top: 20px;
+  left: 15px;
+  height: 43px;
+  width: 43px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+// Right Sidebar
+
+.section {
+  height: 250px;
+  margin-top: 12px;
+}

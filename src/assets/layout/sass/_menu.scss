@@ -1,0 +1,26 @@
+.menu-right {
+  background: radial-gradient(circle at top left, transparent 30px, #ffffff 0) 0 0;
+  top: auto;
+  height: 30px;
+  background-repeat: no-repeat;
+  margin-right: -10px;
+  max-width: 130px;
+  width: 110%;
+  position: absolute;
+  left: -30px;
+  bottom: -15px;
+  display: block;
+}
+.menu-left {
+  background: radial-gradient(circle at top right, transparent 30px, #ffffff 0) 0 0;
+  top: auto;
+  height: 30px;
+  background-repeat: no-repeat;
+  margin-right: -10px;
+  max-width: 130px;
+  width: 100%;
+  position: absolute;
+  right: -19px;
+  bottom: -15px;
+  display: block;
+}

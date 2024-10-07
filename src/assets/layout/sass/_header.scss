@@ -1,0 +1,11 @@
+.header {
+  background-color: $backgroundColor;
+  box-shadow: none;
+}
+.toolbar {
+  color: $lightColor;
+  background-color: $backgroundColor;
+  border: none;
+  border-radius: 0;
+  height: $headerHeight;
+}

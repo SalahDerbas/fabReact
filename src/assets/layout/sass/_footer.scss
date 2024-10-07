@@ -1,0 +1,12 @@
+.footerDrawer {
+  background-color: $backgroundColor;
+  transition: "all .3s";
+  box-shadow: "none";
+}
+
+.footerDrawer.closed {
+  margin-left: $drawerClosedWidth;
+}
+.footerDrawer.opend {
+  margin-left: $drawerWidth;
+}

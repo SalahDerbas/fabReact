@@ -1,0 +1,17 @@
+export const OperationsItemsNotShowed = [
+  "phone",
+  "email",
+  "id",
+  "name",
+  "address",
+  "_links",
+  "description",
+  "unit",
+  "desc",
+  "deleted",
+  "percentage",
+  "type",
+  "specs",
+  "note",
+  "recipe",
+]

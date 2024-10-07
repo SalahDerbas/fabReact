@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1000,
+      "name": "Name 3",
+      "ipAddress": "IP Address 3"
+    },
+    {
+      "id": 1001,
+      "name": "Name 2",
+      "ipAddress": "IP Address 2"
+    },
+    {
+      "id": 1002,
+      "name": "Name 4",
+      "ipAddress": "IP Address 4"
+    },
+    {
+      "id": 1003,
+      "name": "Name 1",
+      "ipAddress": "IP Address 1"
+    }
+  ]
+}

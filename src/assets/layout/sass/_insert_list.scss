@@ -1,0 +1,18 @@
+.insert-list {
+  height: 84.6vh;
+}
+.text-area {
+  resize: none;
+  margin-bottom: 10px;
+}
+.insert-list-container {
+  overflow-y: scroll;
+  height: 73.3vh;
+  align-content: flex-start;
+}
+.note {
+  width: 100%;
+  background-color: $cardBackgroundColor;
+  font-family: Calibri;
+  box-shadow: $weakShadow;
+}

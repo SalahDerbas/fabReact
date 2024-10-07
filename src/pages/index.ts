@@ -1,0 +1,6 @@
+export * from "./home"
+export * from "./login"
+export * from "./operations"
+export * from "./imports"
+export * from "./setting"
+export * from "./otherPages"

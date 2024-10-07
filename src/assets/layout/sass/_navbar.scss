@@ -1,0 +1,25 @@
+.left-navbar {
+  .logo-container {
+    width: $drawerWidth;
+  }
+}
+.right-navbar {
+  .options {
+    .avatar {
+      border: 1px solid #000000;
+      height: 43px;
+      width: 43px;
+      border-radius: 50%;
+      background-color: #ffffff;
+      color: #000000;
+    }
+  }
+}
+.f-avatar {
+  border: 1px solid #000000;
+  height: 43px;
+  width: 43px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  color: #000000;
+}
